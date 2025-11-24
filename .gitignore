@@ -1,5 +1,5 @@
-*.class
-*.ctxt
-*.bluej
+.DS_Store
 *.TXT
-
+*.ctxt
+*.class
+*.bluej
