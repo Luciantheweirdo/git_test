@@ -10,5 +10,13 @@ public class Main
         {
             summe = summe + i;
         }
+        
+        int mult = 1;
+        for (int i = 1; i <= og; ++i)
+        {
+            mult = mult * i;
+        }
+        
+        System.out.println("Summe = " + summe + " Mult = " + mult);
     }
 }
