@@ -21,7 +21,6 @@ public class Main
         }
         
         System.out.println("Summe = " + summe + " Mult = " + mult);
-        // Main Update 1
-        // Main Update 2
+        // Rebase Update 1
     }
 }
