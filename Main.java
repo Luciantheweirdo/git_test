@@ -1,3 +1,4 @@
+import java.math.*;
 
 public class Main
 {
@@ -14,7 +15,7 @@ public class Main
         int mult = 1;
         for (int i = 1; i <= og; ++i)
         {
-            mult = mult * i;
+            mult = mult.multiply(BigInteger.valueOf(i));
         }
         
         System.out.println("Summe = " + summe + " Mult = " + mult);
