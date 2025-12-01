@@ -5,7 +5,9 @@ public class Main
     public static void main(String args[])
     {
         int summe = 0;
+
         int og = 75;
+
         
         for (int i = 1; i <= og; ++i)
         {
