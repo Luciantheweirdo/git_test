@@ -4,7 +4,7 @@ public class Main
     public static void main(String args[])
     {
         int summe = 0;
-        int og = 50;
+        int og = 100;
         
         for (int i = 1; i <= og; ++i)
         {
